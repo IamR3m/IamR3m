@@ -13,7 +13,7 @@ Hi 👋, I'm Aliaksandr
 
 ### Connect with me:
 
-[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliaksandr-kasko-552b6aab" height="30" width="40" />](https://linkedin.com/in/aliaksandr-kasko-552b6aab) [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4057593" height="30" width="40" />](https://stackoverflow.com/users/4057593)
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliaksandr-kasko-552b6aab" height="30" width="40" />](https://linkedin.com/in/aliaksandr-kasko) [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4057593" height="30" width="40" />](https://stackoverflow.com/users/4057593)
 
 ### Languages and Tools:
 
