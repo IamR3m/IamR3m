@@ -1,7 +1,7 @@
 Hi 👋, I'm Aliaksandr
 =====================
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&pause=1000&width=435&lines=A+passionate+Node.js+backend+developer+with+4.5+years+of+experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&weight=600&pause=1000&width=435&lines=A+passionate+Node.js+backend+developer)](https://git.io/typing-svg)
 
 ![iamr3m](https://komarev.com/ghpvc/?username=iamr3m&label=Profile%20views&color=0e75b6&style=flat)
 
